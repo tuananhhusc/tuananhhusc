@@ -5,6 +5,7 @@ I'm a passionate developer with a keen interest in coding and technology. I love
 
 ## 🔭 Current Projects
 - [Project 1](https://github.com/tuananhhusc/DU_LICH_VIET_NAM): ứng dụng du lịch Việt Nam đơn giản sử dụng Flutter.
+- [Project 2 ](https://github.com/tuananhhusc/Giao_dien_dieu_khien_robot): Giao diện điều khiển robot sử dụng esp32
 ## 🌱 Currently Learning
 - Hue University of Sciences majoring in electronics and telecommunications
 - Used to work at Huetronics Joint Stock Company
@@ -15,8 +16,8 @@ I'm a passionate developer with a keen interest in coding and technology. I love
 
 ## 📫 How to Reach Me
 - Email: [tuananhqhvl777@gmail.com](tuananhqhvl777@gmail.com)
-- facebook:[https://www.facebook.com/ntablp/]
-- ig:[https://www.instagram.com/nta_blp/]
+- facebook:[https://www.facebook.com/ntablp/]([https://www.facebook.com/ntablp/)
+- ig:[https://www.instagram.com/nta_blp/](https://www.instagram.com/nta_blp/)
 
 ## ⚡ Fun Fact
 A fun fact about yourself.
