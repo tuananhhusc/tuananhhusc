@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Tuan Anh 👋
 
-<!--
-**tuananhhusc/tuananhhusc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in coding and technology. I love to learn new things and contribute to open source projects.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- [Project 1](https://github.com/tuananhhusc/project1): A brief description of what this project is about.
+- [Project 2](https://github.com/tuananhhusc/project2): A brief description of what this project is about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Technology 1
+- Technology 2
+
+## 💬 Ask Me About
+- Topic 1
+- Topic 2
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](tuananhqhvl777@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+## ⚡ Fun Fact
+A fun fact about yourself.
+
+## 🛠️ Languages and Tools
+- Language 1
+- Tool 1
+- Tool 2
+
+Feel free to check out my repositories and get in touch if you'd like to collaborate on a project!
