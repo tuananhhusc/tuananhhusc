@@ -17,7 +17,6 @@ I'm a passionate developer with a keen interest in coding and technology. I love
 ## 📫 How to Reach Me
 - Email: [tuananhqhvl777@gmail.com](tuananhqhvl777@gmail.com)
 - facebook:[https://www.facebook.com/ntablp/](https://www.facebook.com/ntablp/)
-- ig:[https://www.instagram.com/nta_blp/](https://www.instagram.com/nta_blp/)
 
 ## ⚡ Fun Fact
 A fun fact about yourself.
